@@ -1,4 +1,4 @@
-# Machine-Learning-on-Big-Data
+# Machine Learning Applications for Big Data Analytics
 
 The raw network packets of the UNSW-NB15 dataset was created by the IXIA PerfectStorm tool in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) for generating a hybrid of real modern normal activities and synthetic contemporary attack behaviours. 
 
